@@ -21,5 +21,6 @@ RealTime Block™ is a completely new feature that makes brawler block much fast
 
 Price: **20 USD**
 
-
 Watch the video for more details: https://www.youtube.com/watch?v=YlXIYvw1ZKM
+
+For purchase, contact me on discord: Matt#0003
