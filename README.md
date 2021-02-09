@@ -19,5 +19,7 @@ Features:
 
 RealTime Block™ is a completely new feature that makes brawler block much faster by ignoring the client press input and using my own code to detect button/mouse press, by doing this, you get much more responsive block and the possibility to perfectly queue block after skills without canceling it early with RealTime Block Queue™
 
-Price: 20 USD
+Price: **20 USD**
+
+
 Watch the video for more details: https://www.youtube.com/watch?v=YlXIYvw1ZKM
